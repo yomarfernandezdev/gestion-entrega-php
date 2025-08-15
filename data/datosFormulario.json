@@ -1,0 +1,26 @@
+[
+    {
+        "nombre_y_apellido": "pepito perez",
+        "numero_de_cedula": "123454324",
+        "numero_de_telefono": "3214214214",
+        "numero_de_segundo_telefono": "3122342121",
+        "direccion": "su casa #5-2121",
+        "direccion_de_correo_electronico": "pepito@gmail.com"
+    },
+    {
+        "nombre_y_apellido": "yomar fernandez",
+        "numero_de_cedula": "1234567890",
+        "numero_de_telefono": "3125000441",
+        "numero_de_segundo_telefono": "",
+        "direccion": "Kansas",
+        "direccion_de_correo_electronico": "yokenjuas@gmail.com"
+    },
+    {
+        "nombre_y_apellido": "yomar fernandez",
+        "numero_de_cedula": "1234567890",
+        "numero_de_telefono": "3125000441",
+        "numero_de_segundo_telefono": "123456",
+        "direccion": "Kansas",
+        "direccion_de_correo_electronico": "yokenjuas@gmail.com"
+    }
+]
